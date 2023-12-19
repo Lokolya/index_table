@@ -1,0 +1,31 @@
+body {
+  font: 14pt Arial;
+}
+table {
+  margin: auto;
+  width: 100%;
+}
+
+.title{
+  text-align: center;
+  font-weight: bold;
+  background-color: pink
+}
+
+img {
+  width: 130px;
+  height: 150px;
+}
+
+td {
+  padding: 5px;
+}
+
+table {
+  border: 1px solid #CCC;
+  border-collapse: collapse;
+}
+td {
+  border: none;
+}
+
